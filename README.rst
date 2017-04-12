@@ -1,19 +1,25 @@
 ===============================
-replace with the name for the git repo
+Foxnut Overview
 ===============================
 
-A project to help users manage infrastructure under OpenStack.
+Foxnut is a service to manage infrastructure under OpenStack, which including
+datacenter, rack, network devices, servers, interfaces, disks, etc. devices,
+Foxnut provides an OpenStack-native REST API and will contain comand line tool
+and web-based visualization interface.
 
-Please fill here a long description which must be at least 3 lines wrapped on
-80 cols, so that distribution package maintainers can use it in their packages.
-Note that this is a hard requirement.
+Getting Started
+---------------
+
+If you'd like to run from the master branch, you can clone the git repo:
+
+    git clone https://git.openstack.org/openstack/foxnut
 
 * Free software: Apache license
-* Documentation: http://docs.openstack.org/developer/replace with the name for the git repo
-* Source: http://git.openstack.org/cgit/openstack/replace with the name for the git repo
-* Bugs: http://bugs.launchpad.net/replace with the name of the project on launchpad
+* Documentation: http://docs.openstack.org/developer/foxnut
+* Source: http://git.openstack.org/cgit/openstack/foxnut
+* Bugs: http://bugs.launchpad.net/foxnut
 
-Features
---------
+License
+-------
 
-* TODO
+Apache License Version 2.0 http://www.apache.org/licenses/LICENSE-2.0
