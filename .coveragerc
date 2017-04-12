@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = foxnut
+
+[report]
+ignore_errors = True
