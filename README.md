@@ -20,7 +20,7 @@ scale and availability.
 Foxnut is aim to manage these hardware efficiently, it's designed to collect
 hardware information and organize them in visualization, operators can choose
 different OpenStack architecture and foxnut will generate automatically rack view
-and networking cables and connections view. It also will display hardwares status
+and networking connections view. It also will display hardwares status
 in real-time. With foxnut's help, operators could install servers into a rack and
 cable the server quickly and easily.
 
